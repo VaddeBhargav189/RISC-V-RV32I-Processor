@@ -1,0 +1,7 @@
+addi x1,x0,5
+
+loop:
+sw   x1,0(x0)
+lw   x2,0(x0)
+addi x1,x1,-1
+bne  x1,x0,loop
