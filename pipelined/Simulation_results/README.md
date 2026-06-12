@@ -1,1 +1,1 @@
-Simulation Outputs
+This folder contains the verification test cases for the processor. Each test includes the assembly program, corresponding machine code, and simulation waveforms. The waveforms demonstrate the execution of the program by showing the behavior of processor signals and register values (x1–x6). Simulation results are displayed in hexadecimal format.
